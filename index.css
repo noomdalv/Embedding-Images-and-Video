@@ -1,7 +1,13 @@
+body {
+  background-color: #0d0d0d;
+  color: white;
+}
+
+
 .topnav {
   overflow: hidden;
   background-color: #e9e9e9;
-  border: solid black 1px;
+
 }
 
 .topnav a {
@@ -69,7 +75,7 @@
 .navbar {
   background-color: #555;
   overflow: auto;
-  border: solid blue 2px;
+
 }
 
 .navbar a {
@@ -106,7 +112,7 @@
 #video {
   width: 64%;
   float: left;
-  border: solid black 2px;
+
 }
 
 iframe {
@@ -119,7 +125,7 @@ iframe {
   float: left;
   height: 800px;
   width: 64%;
-  border: solid green 2px;
+
 }
 
 #recommendations {
@@ -127,24 +133,22 @@ iframe {
   float: right;
   height: 800px;
   width: 34%;
-  border: solid red 2px;
+
 }
 
 .bigBox{
   height:120px;
-  border: 1px solid pink;
+
 }
 
 .boxImage {
   float: left;
   width: 130px;
   height: 102px;
-  border: 1px solid #73AD21;
-}
 
+}
 .boxText {
   margin-left: 150px;
-  border: 1px solid #73AD21;
   font-family: 'Roboto';font-size: 16px;
 }
 
@@ -168,4 +172,23 @@ iframe {
   margin-top: 20px;
   margin-left: 90px;
   font-family: 'Roboto';font-size: 16px;
+}
+
+.button {
+  background-color: #D3D3D3; /* Gray */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
 }
