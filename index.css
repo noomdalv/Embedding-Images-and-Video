@@ -104,44 +104,68 @@
 }
 
 #video {
-  margin: 10px;
+  width: 64%;
   float: left;
-  height: auto;
-  width: auto;
-  border: solid black 3px;
+  border: solid black 2px;
+}
+
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #comments {
   float: left;
   height: 800px;
-  width: 600px;
-  border: solid green 3px;
+  width: 64%;
+  border: solid green 2px;
 }
 
 #recommendations {
   display: inline;
   float: right;
   height: 800px;
-  width: 35%;
-  border: solid red 3px;
+  width: 34%;
+  border: solid red 2px;
 }
+
 .bigBox{
-
   height:120px;
-  border: 3px solid pink;
-
+  border: 1px solid pink;
 }
-.boxImage {
 
+.boxImage {
   float: left;
   width: 130px;
   height: 102px;
-  border: 3px solid #73AD21;
-
+  border: 1px solid #73AD21;
 }
 
 .boxText {
   margin-left: 150px;
-  border: 3px solid #73AD21;
+  border: 1px solid #73AD21;
+  font-family: 'Roboto';font-size: 16px;
+}
+
+.commentImage {
+  margin: 10px;
+  float: left;
+  border-radius: 50%;
+  height: 75px;
+  width: 75px;
+}
+
+.subscribeButton {
+  margin-top: 10px;
+  margin-right: 10px;
+  float: right;
+  width: 120px;
+  height: 40px;
+}
+
+.commentText {
+  margin-top: 20px;
+  margin-left: 90px;
   font-family: 'Roboto';font-size: 16px;
 }
