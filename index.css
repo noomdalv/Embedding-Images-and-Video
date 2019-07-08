@@ -125,8 +125,23 @@
   width: 35%;
   border: solid red 3px;
 }
+.bigBox{
 
-.box .thumbnail {
-  height: 90px;
-  width: 90px;
+  height:120px;
+  border: 3px solid pink;
+
+}
+.boxImage {
+
+  float: left;
+  width: 130px;
+  height: 102px;
+  border: 3px solid #73AD21;
+
+}
+
+.boxText {
+  margin-left: 150px;
+  border: 3px solid #73AD21;
+  font-family: 'Roboto';font-size: 16px;
 }
