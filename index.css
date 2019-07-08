@@ -69,6 +69,7 @@
 .navbar {
   background-color: #555;
   overflow: auto;
+  border: solid blue 2px;
 }
 
 .navbar a {
@@ -123,4 +124,9 @@
   height: 800px;
   width: 35%;
   border: solid red 3px;
+}
+
+.box .thumbnail {
+  height: 90px;
+  width: 90px;
 }
