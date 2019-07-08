@@ -23,8 +23,8 @@
   color: white;
 }
 
-.topnav .search-container {
-  float: right;
+.search-container {
+
 }
 
 .topnav input[type=text] {
@@ -35,7 +35,6 @@
 }
 
 .topnav .search-container button {
-  float: right;
   padding: 6px 10px;
   margin-top: 8px;
   margin-right: 16px;
@@ -64,6 +63,17 @@
   .topnav input[type=text] {
     border: 1px solid #ccc;
   }
+}
+
+.topnav .buttons {
+  float: right;
+}
+
+#logo {
+  margin-right: 300px;
+  float: left;
+  height: inherit;
+  width: 80px;
 }
 
 #video {
