@@ -11,7 +11,7 @@ body {
 
 .topnav input[type=text] {
   padding: 5px;
-  margin-top: 8px;
+  margin-top: 15px;
   font-size: 17px;
   border: none;
   color: #e5e5e5;
@@ -105,17 +105,18 @@ iframe {
 
 .videoDetails {
   font-family: 'Roboto';font-size: 16px;
-  border: solid white 1px;
-  margin-left: 52px;
   width: 90%;
+  height: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .videoLikes {
   display: inline;
   float: right;
   color: #e5e5e5;
-  border: solid white 1px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .thumbsUp {
@@ -130,12 +131,10 @@ iframe {
   margin-right: 20px;
 }
 
-
-
 #comments {
   float: left;
   height: 800px;
-  width: 64%;
+  width: 68%;
 }
 
 #recommendations {
@@ -144,7 +143,6 @@ iframe {
   float: right;
   height: 800px;
   width: 30%;
-
 }
 
 .bigBox{
@@ -162,25 +160,32 @@ iframe {
   font-family: 'Roboto';font-size: 14px;
 }
 
+.bigComment {
+  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .commentImage {
-  margin: 10px;
   float: left;
   border-radius: 50%;
-  height: 75px;
-  width: 75px;
+  height: 50px;
+  width: 50px;
 }
 
 .subscribeButton {
+
   margin-top: 10px;
-  margin-right: 10px;
   float: right;
   width: 120px;
   height: 40px;
 }
 
 .commentText {
-  margin-top: 20px;
-  margin-left: 90px;
+  margin-left: 55px;
+  width:82%;
+  display: block;
   font-family: 'Roboto';font-size: 16px;
 }
 
