@@ -101,6 +101,7 @@ iframe {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: solid black 1px;
 }
 
 .videoDetails {
@@ -131,10 +132,11 @@ iframe {
   margin-right: 20px;
 }
 
-#comments {
-  float: left;
-  height: 800px;
-  width: 68%;
+#videoDescription {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
 }
 
 #recommendations {
@@ -175,7 +177,6 @@ iframe {
 }
 
 .subscribeButton {
-
   margin-top: 10px;
   float: right;
   width: 120px;
