@@ -1,4 +1,4 @@
-# Project-Embedding-Images-and-Video
+# Project: Embedding Images and Video
 Microverse
 
 This is the first project of the Main HTML/CSS curriculum at [Microverse](https://www.microverse.org/) - @microverseinc
@@ -16,13 +16,14 @@ This is the first project of the Main HTML/CSS curriculum at [Microverse](https:
 To get a local copy up and running go to the location you'd like to add the project and then clone the repository with:
 
 ```console
-git clone https://github.com/noomdalv/react_activity_tracker.git
+git clone https://github.com/noomdalv/Embedding-Images-and-Video.git
 ```
 
-#### Authors
+### 👤 Authors
 
-* [@SofiBretz](https://github.com/SofiBretz)
-* [@noomdalv](https://github.com/noomdalv/)
+- Github: [@SofiBretz](https://github.com/SofiBretz)
+
+- Github: [@noomdalv](https://github.com/noomdalv/)
 
 #### License
 
