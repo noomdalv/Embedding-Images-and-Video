@@ -7,7 +7,19 @@ This is the first project of the Main HTML/CSS curriculum at [Microverse](https:
 
 #### [Assignment link](https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video)
 
+#### [Live Link](https://raw.githack.com/noomdalv/Embedding-Images-and-Video/master/index.html)
+
+#### ![screenshot](https://i.imgur.com/8uP9RyN.jpg)
+
 #### Authors
 
 * [@SofiBretz](https://github.com/SofiBretz)
 * [@noomdalv](https://github.com/noomdalv/)
+
+## Download
+
+To get a local copy up and running go to the location you'd like to add the project and then clone the repository with:
+
+```console
+git clone https://github.com/noomdalv/react_activity_tracker.git
+```
