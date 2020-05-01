@@ -11,11 +11,6 @@ This is the first project of the Main HTML/CSS curriculum at [Microverse](https:
 
 #### ![screenshot](https://i.imgur.com/8uP9RyN.jpg)
 
-#### Authors
-
-* [@SofiBretz](https://github.com/SofiBretz)
-* [@noomdalv](https://github.com/noomdalv/)
-
 ## Download
 
 To get a local copy up and running go to the location you'd like to add the project and then clone the repository with:
@@ -23,3 +18,12 @@ To get a local copy up and running go to the location you'd like to add the proj
 ```console
 git clone https://github.com/noomdalv/react_activity_tracker.git
 ```
+
+#### Authors
+
+* [@SofiBretz](https://github.com/SofiBretz)
+* [@noomdalv](https://github.com/noomdalv/)
+
+#### License
+
+This project is 📝 [MIT](https://opensource.org/licenses/MIT) licensed.
